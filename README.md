@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi👋My name is Stanislav Bolotov
+### I am a future Front End developer.
 <!--
 **StasBolotov/StasBolotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
