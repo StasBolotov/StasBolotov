@@ -1,7 +1,17 @@
 ### Hi👋My name is Stanislav Bolotov
-========================================================================================================================================
+
 ### I am a future Front End developer.
-========================================================================================================================================
+
+*   🌍  I live in the best place on earth.
+*   🖥️  My future portfolio <a target="_blank" rel="noreferrer" href='#'>Portfolio</a>
+*   🧠  Currently learning TypeScript && React
+*   🤝  I'm open to collaborating on interesting projects as a developer
+
+
+
+
+
+
 <!--
 **StasBolotov/StasBolotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
