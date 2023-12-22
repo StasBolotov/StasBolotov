@@ -9,7 +9,7 @@
 
 - name: generate-snake-game-from-github-contribution-grid
        
-  uses: Platane/snk@v3.2.0
+  uses: StasBoloto/snk@v3.2.0
 
 
 
