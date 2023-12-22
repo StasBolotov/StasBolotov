@@ -6,7 +6,11 @@
 *   🖥️  My future portfolio <a target="_blank" rel="noreferrer" href='#'>Portfolio</a>
 *   🧠  Currently learning TypeScript && React
 *   🤝  I'm open to collaborating on interesting projects as a developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%BC00881&lines=Не_бейте_пожалуйста_я_только_учусь)](https://git.io/typing-svg)
 
+![Segizmund`s GitHub stats](https://github-readme-stats.vercel.app/api?username=StasBolotov&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StasBolotov&theme=tokyonight&layout=compact)
 
 <!--
 **StasBolotov/StasBolotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
