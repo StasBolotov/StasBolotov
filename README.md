@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%BC00881&lines=Не_бейте_пожалуйста_я_только_учусь)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%BC00881&lines=Не бейте пожалуйста я только учусь)](https://git.io/typing-svg)
 ### Hi👋My name is Stanislav Bolotov
 
 ### I am a future Front End developer.
