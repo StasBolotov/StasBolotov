@@ -7,12 +7,6 @@
 *   🧠  Currently learning TypeScript && React
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
-- name: generate-snake-game-from-github-contribution-grid
-       
-  uses: StasBoloto/snk@v3.2.0
-
-
-
 
 <!--
 **StasBolotov/StasBolotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
